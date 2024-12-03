@@ -340,7 +340,7 @@ MANIMANDAPAM
 SANGAM HOTEL
 ![screencapture-file-C-Users-admin-Desktop-HTML2-SANGAMHOTEL-html-2024-12-03-23_38_54](https://github.com/user-attachments/assets/c923d38b-1354-4615-b5e3-102d9afe53d3)
 
-ORINTAL TOWER
+ORIENTAL TOWER
 ![screencapture-file-C-Users-admin-Desktop-HTML2-HOTELORIENTALTOWER-HTML-2024-12-03-23_39_13](https://github.com/user-attachments/assets/62b10468-d913-43d3-af31-ed125eff1df5)
 
 RK HOTEL TEMPLE STAY
