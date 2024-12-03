@@ -113,7 +113,7 @@ body {
 
 2.MANIMANDAPAM.HTML
 ```
-V\<center>
+<center>
  <header>MANIMANDAPAM</header> 
  <img src="c:\Users\admin\Downloads\HYP_4806329_img_20241109_132812_watermark_20112024_221135_5.jpg" width="700" height="500">
 </center>
